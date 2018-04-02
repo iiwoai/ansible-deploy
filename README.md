@@ -23,7 +23,7 @@
 - flannel	v0.10.0
   - 附：集群用到的所有二进制文件已打包好供下载 [https://pan.baidu.com/s/1c4RFaA](https://pan.baidu.com/s/1c4RFaA)
   - 注：`Kubernetes v1.8.x` 版本请切换到项目分支 `v1.8`, 若你需要从v1.8 升级至 v1.9，请参考 [升级注意](docs/upgrade.md)
-  - 注： 'k8s 19.3'地址：链接: https://pan.baidu.com/s/1e0dFYybj0sQ9vCT-bFdtFw 密码: guv5
+  - 注： 'k8s 19.3'地址：链接: https://pan.baidu.com/s/1e0dFYybj0sQ9vCT-bFdtFw 密码: guv5
 ## 快速指南
 
 单机快速体验k8s集群的测试、开发环境--[AllinOne部署](docs/quickStart.md)；在国内的网络环境下要比官方的minikube方便、简单很多。
